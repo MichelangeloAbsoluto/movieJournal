@@ -1,0 +1,39 @@
+[ {
+    "title": "Heat",
+    "genre": "drama",
+    "director": "Michael Mann",
+    "year": "1995",
+    "cast": "Robert De Niro, Al Pacino, Val Kilmer",
+    "writer": "Michael Mann",
+    "plot": "Criminals attempt a heist at shocking costs",
+    "review": "I enjoyed the heist scenes. They were exciting.",
+    "rating": 8,
+    "metascore": 77,
+    "user": "5d7a514b5d2c12c7449be043"
+},
+{
+    "title": "Rushmore",
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "year": "1998",
+    "cast": "Jason Schwartzman, Bill Murray, Owen Wilson",
+    "writer": "Wes Anderson, Owen Wilson",
+    "plot": "An ambitious high schooler takes on some new extra-curriculars.",
+    "review": "So funny dawg!",
+    "rating": 9,
+    "metascore": 77,
+    "user": "5d7a514b5d2c12c7449be045"
+},
+{
+    "title": "The Score",
+    "genre": "drama",
+    "director": "Frank Oz",
+    "year": "2001",
+    "cast": "Robert De Niro, Marlon Brando, Ed Norton",
+    "writer": "Frank Oz",
+    "plot": "Criminals attempt a heist with risks even they do not fully understand.",
+    "review": "The jazz club was cool. Love the scenes with De Niro hanging by a thread!",
+    "rating": 6,
+    "metascore": 77,
+    "user": "5d7a514b5d2c12c7449be043"
+} ]
